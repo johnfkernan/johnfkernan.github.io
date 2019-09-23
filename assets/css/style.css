@@ -92,6 +92,7 @@ font-weight: bold;
   padding:10px;
   width: 960px;
   background-color: #fff;
+  content: #777;
   border: #ddd 2px;
   opacity: .75;}
 
@@ -159,8 +160,6 @@ font-weight: bold;
 /* footer css */
 .foot1 {
   display: flex;
-  flex: 1 0;
-  flex-shrink: 0;
   justify-content: center;
   background-color: #666666;
   font-family: 'Arial', 'Helvetica Neue', 'Helvetica', 'sans-serif';
