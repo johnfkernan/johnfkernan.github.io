@@ -91,12 +91,11 @@ font-weight: bold;
   font-family: 'Arial', 'Helvetica Neue', 'Helvetica', 'sans-serif';
 }
 .section-content {
-
-  justify-content: center;
-  padding:5px;
+  padding:10px;
   width: 960px;
   background-color: #fff;
-  opacity: .7;}
+  border: #ddd 2px;
+  opacity: .75;}
 
 
 .portfolio-image {
@@ -155,7 +154,7 @@ font-weight: bold;
   width: 100%;
 }
 .spacer {
-  padding: 5px;
+  padding: 10px;
 }
 
 
